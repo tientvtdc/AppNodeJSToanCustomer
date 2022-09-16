@@ -1,0 +1,29 @@
+[
+  {
+    "question": "Bác Hồ ra đi tìm đường cứu nước ngày mấy",
+    "answer": [
+      { "number": "A.", "desc": "Ngày 5 tháng 6 năm 1911" },
+      { "number": "B.", "desc": "Ngày 10 tháng 2 năm 1912" },
+      { "number": "C.", "desc": "Ngày 10 tháng 6năm 1912" },
+      { "number": "D.", "desc": "Ngày 5 tháng 5 năm 1912" }
+    ]
+  },
+  {
+    "question": "1263+1111=",
+    "answer": [
+      { "number": "A.", "desc": "2337" },
+      { "number": "B.", "desc": "2374" },
+      { "number": "C.", "desc": "2733" },
+      { "number": "D.", "desc": "2833" }
+    ]
+  },
+  {
+    "question": "Từ thành phố qua bến tre phải đi qua đường nào",
+    "answer": [
+      { "number": "A.", "desc": "Riềng giang" },
+      { "number": "B.", "desc": "Song be" },
+      { "number": "C.", "desc": "Đồng nai" },
+      { "number": "D.", "desc": "Long Thành" }
+    ]
+  }
+]
